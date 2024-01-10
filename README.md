@@ -1,5 +1,4 @@
-### Hi there 👋, welcome to my little corner of the internet where I try to make sense of the universe using abstract objects, code, and art.
-
+### welcome to my little github corner on the internet. 
 <!--
 **thetrucreative/thetrucreative** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
